@@ -1,0 +1,10 @@
+
+spring.application.name=myfirstwebapp
+spring.mvc.view.prefix=/WEB-INF/jsp/
+spring.mvc.view.suffix=.jsp
+logging.level.org.springframework=info
+logging.level.com.in28minutes.springboot.myfirstwebapp=debug
+
+spring.mvc.format.date= yyyy-MM-dd
+
+spring.datasource.url=jdbc:h2:mem:8a1bd8b4-adf9-45e4-8e4f-59b7c5455b9e

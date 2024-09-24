@@ -1,0 +1,2 @@
+insert into todo (Id, USERNAME, DESCRIPTION, TARGE_DATE, DONE)
+values(1001,'in28minutes', 'Get QWS Certified', CURRENT_DATE(), false )
